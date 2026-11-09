@@ -147,31 +147,26 @@
       "detail": "https://lovedan.net"
     },
     "lzizy.net": {
-      "_comment": "备用",
       "name": "🎬量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://lzizy.net"
     },
     "zuidazy.co": {
-      "_comment": "备用",
       "name": "🎬最大点播",
       "api": "https://zuidazy.me/api.php/provide/vod",
       "detail": "https://zuidazy.co"
     },
     "wujinzy.com": {
-      "_comment": "备用",
       "name": "🎬无尽影视",
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "detail": "https://wujinzy.com"
     },
-    "wwzy.tv": {
-      "_comment": "备用",
-      "name": "🎬旺旺短剧",
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "detail": "https://wwzy.tv"
+    "tyyszy.com": {
+      "name": "🎬天涯资源",
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com/"
     },
     "1080zyk4.com": {
-      "_comment": "无法搜索",
       "name": "🎬优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "detail": "https://1080zyk4.com"
