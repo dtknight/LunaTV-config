@@ -2,6 +2,11 @@
   "cache_time": 7200,
   "api_site": {
     "iqiyizyapi.com": {
+      "name": "🎬厂长资源",
+      "api": "https://api.changzhang.tv/api.php/provide/vod/",
+      "detail": "https://changzhang.tv"
+    },
+    "iqiyizyapi.com": {
       "name": "🎬-爱奇艺-",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com"
